@@ -54,6 +54,6 @@
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.springframework.transaction_4.0.2.20140223-RELEASE.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/primefaces-5.0.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/javax.faces-api-2.0.jar"/>
-	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.springframework.web_4.0.2.20140223-RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.springframework.web.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
